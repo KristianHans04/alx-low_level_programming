@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-/*
+/**
+ *
  * Just trying to correct..nothing important
  */
 int main(void)
